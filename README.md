@@ -13,3 +13,4 @@
 ##### 11. Text to Speech App: https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-NOELandVoid
 ##### 12. Take a Picture App: https://github.com/DeLaSalleUniversity-Manila/takeapicture-NOELandVoid
 ##### 13. Splash Activity Demo App: https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-NOELandVoid
+##### 14. Help Activity Demo App: https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-NOELandVoid
