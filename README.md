@@ -17,3 +17,4 @@
 ##### 15. Display Webpage Demo App: https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-NOELandVoid
 ##### 16. Green Target App: https://github.com/DeLaSalleUniversity-Manila/greentarget-NOELandVoid
 ##### 17. E-mail App Grid Layout: https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-NOELandVoid
+##### 18. Play Video App: https://github.com/DeLaSalleUniversity-Manila/playvideo-NOELandVoid
