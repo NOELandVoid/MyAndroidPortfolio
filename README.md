@@ -20,3 +20,5 @@ https://play.google.com/store/apps/details?id=com.noooo.student.breastcancer
 ##### 17. E-mail App Grid Layout: https://github.com/DeLaSalleUniversity-Manila/emailappgridlayout-NOELandVoid
 ##### 18. Play Video App: https://github.com/DeLaSalleUniversity-Manila/playvideo-NOELandVoid
 ##### 19. Course Adviser App: https://github.com/DeLaSalleUniversity-Manila/courseadviserapp-NOELandVoid
+##### 20. Stopwatch App: https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-NOELandVoid
+##### 21. Star Rating Demo App: https://github.com/DeLaSalleUniversity-Manila/starratingdemo-NOELandVoid
