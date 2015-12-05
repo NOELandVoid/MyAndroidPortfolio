@@ -1,5 +1,5 @@
 # MyAndroidPortfolio
-## Deadline: December 8
+### Deadline: December 8
 ##### 1. Hello World App: https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-NOELandVoid
 ##### 2. Weekday App: https://github.com/DeLaSalleUniversity-Manila/weekdayNOELandVoid
 ##### 3. Prime Number Game App: https://github.com/DeLaSalleUniversity-Manila/primenumbergame-NOELandVoid
