@@ -24,3 +24,4 @@ https://play.google.com/store/apps/details?id=com.noooo.student.breastcancer
 ##### 21. Star Rating Demo App: https://github.com/DeLaSalleUniversity-Manila/starratingdemo-NOELandVoid
 ##### 22. Google Maps Demo App: https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-NOELandVoid
 ##### 23. Second Activity Assignment: https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-NOELandVoid
+##### 24. Get Current Location App: https://github.com/DeLaSalleUniversity-Manila/getcurrentlocation-NOELandVoid
