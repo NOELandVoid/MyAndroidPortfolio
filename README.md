@@ -25,3 +25,5 @@ https://play.google.com/store/apps/details?id=com.noooo.student.breastcancer
 ##### 22. Google Maps Demo App: https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-NOELandVoid
 ##### 23. Second Activity Assignment: https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-NOELandVoid
 ##### 24. Get Current Location App: https://github.com/DeLaSalleUniversity-Manila/getcurrentlocation-NOELandVoid
+##### 25. My Music App: https://github.com/DeLaSalleUniversity-Manila/mymusicapp-NOELandVoid
+##### 26. Grocery App: https://github.com/DeLaSalleUniversity-Manila/groceryapp-NOELandVoid
