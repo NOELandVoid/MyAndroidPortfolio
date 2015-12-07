@@ -34,3 +34,5 @@ https://play.google.com/store/apps/details?id=com.noooo.student.breastcancer
 ##### 31. View Pager with Text to Speech App:
 ##### 32. Green Wall App:
 ##### 33. OpenCV Camera Control: 
+##### 34. DISMATHOID:
+#####
