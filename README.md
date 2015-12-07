@@ -29,3 +29,8 @@ https://play.google.com/store/apps/details?id=com.noooo.student.breastcancer
 ##### 26. Grocery App: https://github.com/DeLaSalleUniversity-Manila/groceryapp-NOELandVoid
 ##### 27. Screen Slides Demo App: https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-NOELandVoid
 ##### 28. Get Neighboring Hospitals App: https://github.com/DeLaSalleUniversity-Manila/getneighboringhospitals-NOELandVoid
+##### 29. 2048 App:
+##### 30. Camera Calibration App:
+##### 31. View Pager with Text to Speech App:
+##### 32. Green Wall App:
+##### 33. OpenCV Camera Control: 
